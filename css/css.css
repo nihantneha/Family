@@ -1,0 +1,29 @@
+body {
+    background-image:img/bg.jfif;
+    
+   }
+  
+main{
+  
+   margin-top: 70px;
+   
+}
+ 
+.right-div{
+
+   width:85%;
+  background-color: #412563;
+ color: #eae457;
+  
+}
+
+.left-div{
+   color:#412563;
+   border: 5px solid black;
+   width:15%;
+   height: 100%;
+  background-color: #eae457;
+}
+.center{
+   text-align:center;
+}
