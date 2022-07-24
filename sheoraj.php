@@ -16,8 +16,6 @@
     LayakRam Sharma
 </div>
 <div class="menu-container">
-   
-
     <ul class="menu">           
         <li>
             <a href="#">Home</a>
